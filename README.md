@@ -1,3 +1,4 @@
 # Customer_Lifetime_Value
 This CLTV analysis, the data set "online_retail_II" covers the years 2010 - 2011.
+
 Data set download link : https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
